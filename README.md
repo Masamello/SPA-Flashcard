@@ -91,7 +91,7 @@ A responsive, single-page flashcard learning application built with **React**, *
 
 ## 🧑‍💻 Author
 
-* Developed by: Masamello, Pedro
+* Developed by: Masamello, pedroevaristo17
 * Course: Frontend Development Final Project
 
 ---
