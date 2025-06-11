@@ -45,8 +45,8 @@ A responsive, single-page flashcard learning application built with **React**, *
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/flashcard-learning-app.git
-   cd flashcard-learning-app
+   git clone https://github.com/Masamello/SPA-Flashcard.git
+   cd SPA-Flashcard
    ```
 
 2. Install dependencies:
